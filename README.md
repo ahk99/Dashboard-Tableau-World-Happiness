@@ -3,7 +3,7 @@ A dashboard for visualizing World Happiness using tableau.
 
 [World Happiness data](https://www.kaggle.com/code/jahaidulislam/world-happiness-report-2005-2021-analysis-process/data) is obtained from Kaggle.
 
-Tableau is usdd to visually represent the data.
+Tableau is used to visually represent the data.
 
 Represented graphs and values are:
 
